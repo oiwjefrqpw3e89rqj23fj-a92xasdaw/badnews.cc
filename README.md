@@ -1,0 +1,2 @@
+# badnews.cc
+bad news!
